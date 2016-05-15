@@ -1,0 +1,6 @@
+base = 4
+exponent = 3
+power = 1
+WHILE exponent> 0
+power = power * base
+exponent = exponent - 1
